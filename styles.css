@@ -21,3 +21,7 @@ a {
 .hero-text {
     max-width: 317px;
 }
+
+h2 {
+    font-size: 14px;
+}
