@@ -17,3 +17,7 @@ a {
 .hero {
     display: flex;
 }
+
+.hero-text {
+    max-width: 317px;
+}
