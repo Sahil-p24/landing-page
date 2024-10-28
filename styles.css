@@ -21,16 +21,19 @@ a {
 
 .hero-text {
     max-width: 317px;
+    color: white;
 }
 
 h2 {
     font-size: 14px;
+    color: rgb(196, 192, 192);
 }
 
 button {
     background-color: rgb(30, 152, 209);
     padding: 4px 22px;
     border-radius: 10px;
+    color: white;
 }
 
 header, .hero {
