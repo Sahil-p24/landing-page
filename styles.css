@@ -26,3 +26,7 @@ a {
 h2 {
     font-size: 14px;
 }
+
+button {
+    background-color: rgb(30, 152, 209);
+}
