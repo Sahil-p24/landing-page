@@ -53,6 +53,10 @@ header, .hero {
     background-color: #1f2937;
 }
 
+.cards {
+    display: flex;
+}
+
 .info h1 {
     color: #1f2937;
     font-size: 36px;
