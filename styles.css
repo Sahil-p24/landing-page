@@ -119,5 +119,6 @@ blockquote {
 }
 
 .cta-text h1 {
-    font-size: 22px;
+    font-size: 23px;
+    font-weight: 500;
 }
