@@ -59,6 +59,10 @@ header, .hero {
     text-align: center;
 }
 
+figure {
+    max-width: 147px;
+}
+
 .info h1 {
     color: #1f2937;
     font-size: 36px;
