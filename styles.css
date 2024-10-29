@@ -55,6 +55,8 @@ header, .hero {
 
 .cards {
     display: flex;
+    justify-content: center;
+    text-align: center;
 }
 
 .info h1 {
