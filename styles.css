@@ -117,3 +117,7 @@ blockquote {
     border-radius: 8px;
     display: flex;
 }
+
+.cta-text h1 {
+    font-size: 22px;
+}
