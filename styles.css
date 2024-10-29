@@ -103,3 +103,7 @@ blockquote p {
     font-weight: 700;
     font-size: 23px;
 }
+
+blockquote {
+    margin-bottom: 0;
+}
