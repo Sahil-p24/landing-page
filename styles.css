@@ -60,11 +60,14 @@ header, .hero {
 }
 
 figure {
-    max-width: 147px;
+    max-width: 155px;
 }
 
 figure img {
-    
+    height: 155px;
+    width: 155px;
+    border: 4px solid #3882F6;
+    border-radius: 18px;
 }
 
 .info h1 {
