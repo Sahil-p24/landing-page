@@ -124,6 +124,11 @@ blockquote {
     font-weight: 500;
 }
 
+.cta-text h2 {
+    font-size: 15px;
+    font-weight: 400;
+}
+
 .cta button {
     background-color: #3882F6;
     color: white;
