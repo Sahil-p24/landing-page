@@ -116,6 +116,7 @@ blockquote {
     background-color: #3882F6;
     border-radius: 8px;
     display: flex;
+    justify-content: space-around;
 }
 
 .cta-text h1 {
