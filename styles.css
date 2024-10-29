@@ -100,4 +100,6 @@ blockquote p {
 #author {
     text-align: end;
     margin: 0 280px 0 0;
+    font-weight: 700;
+    font-size: 23px;
 }
