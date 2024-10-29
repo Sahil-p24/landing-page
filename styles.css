@@ -109,3 +109,10 @@ blockquote {
     margin-bottom: 0;
     padding: 100px 0;
 }
+
+.cta {
+    max-width: 1000px;
+    margin: 100px;
+    background-color: #3882F6;
+    border-radius: 10px;
+}
